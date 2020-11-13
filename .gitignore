@@ -102,3 +102,4 @@ ENV/
 
 # Code environment
 .vscode/ 
+.vscode/settings.json
